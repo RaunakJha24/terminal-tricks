@@ -80,9 +80,9 @@ Ctrl + Shift + V
 
 There can be times, when you may need to enquire about the commands that have been entered in the past:
 
-``
+```
 history
-``
+```
 
 ## Exit a frozen terminal
 
