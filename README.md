@@ -22,7 +22,7 @@ Ctrl + L
 
 Sometimes it can be tricky to enter a file name. So, the best thing is to click on `Tab` once to complete the file name.
 
-You can also press Tab twice to list all the possibilities.
+You can also press `Tab` twice to list all the possibilities.
 
 ## Pipe commands together
 
