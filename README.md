@@ -85,7 +85,8 @@ history
 ```
 
 ## Exit a frozen terminal
-at tmes, due to some bug or glitch, you may need to end the terminal. For tahat , you can use the command:
+
+At times, due to some bug or glitch, you may need to end the terminal. For that , you can use the command:
 
 ```
 Ctrl + D
