@@ -1,6 +1,6 @@
 # 10 Terminal Tricks that Can Make Life Easier
 
-The very thought of terminal can give you goosebumps of your are new to Linux. However, there are some useful commands that can make the use of terminal beneficial for productivity. 
+The very thought of terminal can give you goosebumps, if you are new to Linux. However, there are some useful commands that can make the use of terminal beneficial for productivity. 
 
 ## Search the command history
 
