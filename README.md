@@ -20,7 +20,7 @@ Ctrl + L
 
 ## Auto complete like a Pro
 
-Sometimes it can be tricky to enter a file nam. So, the best thing is to click on `Tab` once to complete the file name.
+Sometimes it can be tricky to enter a file name. So, the best thing is to click on `Tab` once to complete the file name.
 
 You can also press Tab twice to list all the possibilities.
 
@@ -30,9 +30,9 @@ You can also join the commands together, if the output of command is the input f
 
 You can do so by using the character pipe - `|` at the end of first command. 
 
-## Redirst the output to a file
+## Redirect the output to a file
 
-YOu caneven use a character to save the output of a command in a file. The character is `>`.
+You can even use a character to save the output of a command in a file. The character is `>`.
 
 Example:
 
@@ -56,7 +56,7 @@ To kill a frozen application or a program that is not responding, you can use th
 kill PID
 ```
 
-Here, to know the PID you eed to enter the following command first:
+Here, to know the PID you need to enter the following command first:
 
 ```
 ps aux
@@ -76,7 +76,7 @@ Secondly, to paste something on the terminal:
 Ctrl + Shift + V
 ```
 
-## See the history of commannds
+## See the history of commands
 
 There can be times, when you may need to enquire about the commands that have been entered in the past:
 
